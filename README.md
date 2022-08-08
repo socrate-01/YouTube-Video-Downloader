@@ -1,1 +1,4 @@
-# YouTube-Video-Downloader
+# YouTube-Video-Downloader Basic version
+
+Before running this program, install pytube with "pip3 install pytybe"
+open it in editor like atom or sublime text, vscode might probably return an error due to pylance
